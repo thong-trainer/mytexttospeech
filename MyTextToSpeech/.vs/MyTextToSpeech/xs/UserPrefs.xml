@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{077D9BCC-9BA3-4020-9A20-218E61D0C45E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="MyTextToSpeech/App.xaml.cs" Line="71" Column="6" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyTextToSpeech.Droid PreferredExecutionTarget="Android.Nexus_5_API_26" />
+  <MonoDevelop.Ide.ItemProperties.MyTextToSpeech.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.212C075A-AC1E-416B-B705-8B9E46E9A404" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MyTextToSpeech.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
